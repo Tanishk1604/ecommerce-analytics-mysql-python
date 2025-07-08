@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Data Analysis with Python & MySQL
 
-This project delivers a comprehensive data analysis of an e-commerce business using a real-world dataset from the [Target Dataset on Kaggle](https://www.kaggle.com/datasets/devarajv88/target-dataset). It combines the power of **SQL queries** with **Python-based data visualization** to uncover deep insights into customer behavior, product sales, seller performance, and time-based revenue trends.
+This project delivers a comprehensive data analysis of an e-commerce business using a real-world dataset from Kaggle. It combines the power of **SQL queries** with **Python-based data visualization** to uncover deep insights into customer behavior, product sales, seller performance, and time-based revenue trends.
 
 The analysis is built around a **MySQL database** loaded with cleaned CSV data and accessed using Python. Visualizations are created using **matplotlib** and **seaborn**, making it easy to interpret sales patterns, consumer preferences, and business growth indicators.
 
