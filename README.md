@@ -8,6 +8,11 @@ Whether you're exploring user retention, analyzing revenue growth, or identifyin
 
 ---
 
+📓 **Interactive Notebook Preview**
+
+To see all SQL queries, analysis, and visualizations, open the[`python+sql_ecommerce.ipynb`](./python+sql_ecommerce.ipynb) notebook directly on GitHub.
+
+
 ## 🔍 Key Insights Uncovered
 
 ### 🧑‍🤝‍🧑 Customer Insights
